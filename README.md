@@ -1,6 +1,6 @@
 # Protractor and Chrome in Docker
 
-[![Docker Build Status](https://img.shields.io/docker/build/mattiash/protractor)](https://hub.docker.com/r/mattiash/protractor/)
+[![Docker Build Status](https://img.shields.io/docker/build/mattiash/protractor.svg)](https://hub.docker.com/r/mattiash/protractor/)
 
 This is a docker container that allows you to run your protractor tests in it.
 
